@@ -1,0 +1,4 @@
+baseURL = 'https://poems-by.me/'
+languageCode = 'en-us'
+title = 'Poems by Me'
+pluralizeListTitles = false
