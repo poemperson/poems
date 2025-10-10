@@ -2,6 +2,8 @@ baseURL = 'https://poems-by.me/'
 languageCode = 'en-us'
 title = 'Poems by Me'
 pluralizeListTitles = false
+canonifyURLs = true
+relativeURLs = false
 
 [markup.goldmark.renderer]
 hardWraps = true
