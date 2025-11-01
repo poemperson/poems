@@ -1,7 +1,9 @@
 +++
 date = '2025-10-31'
-title = 'Stray'
+title = 'Led Astray by a Stray'
 +++
+
+**Led Astray by a Stray**
 
 a stray cat sat upon a pile of leaves
 blinked, and looked up at me lovingly

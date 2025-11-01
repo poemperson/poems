@@ -1,10 +1,16 @@
 +++
-date = '2024-05-16'
+date = '2024-07-01'
 title = 'Dead Cord'
 +++
 
-i came across the people's refuge left abandone*d*
-one final spark left dark the forgotten abod*e*
-the path to the hill once filled by fleets of dat*a*
-lay empty now, a sad deserted roa*d*
-dead cor*d*
+**Dead Cord**
+
+*d*esolate, once sturdy fortress lies in waste
+*e*viscerated, empty veins bled slowly dry
+*a* gruesome fate has met the place which died in haste
+*d*ear friends of mine, i need now ask you only why
+
+*c*ould we have not brought brighter days to bid farewell?
+*o*r had the prophecies we jokingly did there tell
+*r*ightly spell the end we'd head toward:
+*d*ead cord

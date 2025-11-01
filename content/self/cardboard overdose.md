@@ -1,7 +1,9 @@
 +++
 date = '2024-01-30'
-title = 'Consooming'
+title = 'Cardboard Overdose'
 +++
+
+**Cardboard Overdose**
 
 more sleepless nights spent contemplating dreams:
 wishes to welcome words from worlds afar

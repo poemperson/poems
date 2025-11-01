@@ -1,7 +1,9 @@
 +++
 date = '2023-06-13'
-title = 'Backwards'
+title = 'Bottom-Up and Top-Down'
 +++
+
+**Bottom-Up and Top-Down**
 
 well, at least i can say i tried my best.
 it was somewhat of a tricky test

@@ -1,7 +1,9 @@
 +++
 date = '2020-12-04'
-title = 'Kaczynski'
+title = 'Electronic Lullaby'
 +++
+
+**Electronic Lullaby**
 
 our ancestors who once discovered fire
 could not imagine what this world's become

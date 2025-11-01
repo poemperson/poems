@@ -1,7 +1,9 @@
 +++
 date = '2025-08-16'
-title = 'Doomscroll'
+title = 'Prisons of Conveniencne'
 +++
+
+**Prisons of Convenience**
 
 my prison cell is a cramped rectangle
 encapsulating me whole.
