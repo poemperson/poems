@@ -1,6 +1,6 @@
 +++
 date = '2025-10-31'
-title = 'puppy'
+title = 'Stray'
 +++
 
 a stray cat sat upon a pile of leaves
