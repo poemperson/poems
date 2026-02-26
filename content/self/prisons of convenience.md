@@ -21,4 +21,4 @@ could we be faulted, too naive to know,
 it'd tear from us so much of life we once treasured?
 
 imprisoned by convenience; who would have known?
-well, that might be why it's called a 'cell' phone
+well, that might be why it's called a 'cell' phone!
