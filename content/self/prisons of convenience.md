@@ -1,6 +1,6 @@
 +++
 date = '2025-08-16'
-title = 'Prisons of Conveniencne'
+title = 'Prisons of Convenience'
 +++
 
 **Prisons of Convenience**

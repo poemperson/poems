@@ -1,9 +1,9 @@
 +++
 date = '2021-04-11'
-title = 'Restless Luxury'
+title = 'Restless in Luxury'
 +++
 
-**Restless Luxury**
+**Restless in Luxury**
 
 on nights my stubborn eyes refuse to shut
 the engine in my skull denies me rest
