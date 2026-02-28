@@ -3,6 +3,8 @@ date = '2020-12-27'
 title = 'Lover's Blades'
 +++
 
+**Lover's Blades**
+
 lover so kind, wielding weapons so sweet,
 select the demise you surmise i should meet
 on the edge of your blade i see pale shades reflected
