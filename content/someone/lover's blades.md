@@ -1,6 +1,6 @@
 +++
 date = '2020-12-27'
-title = 'Lover\'s Blades'
+title = "Lover's Blades"
 +++
 
 **Lover's Blades**
